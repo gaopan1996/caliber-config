@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: caliber-config
+Implementation-Version: 1.0
+Built-By: Patrick
+Implementation-Vendor-Id: com.revature.caliber
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/caliber-config
+Created-By: Maven Integration for Eclipse
+
